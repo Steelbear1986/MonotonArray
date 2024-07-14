@@ -1,0 +1,1 @@
+return  sorted(nums)==(nums) or sorted(nums,reverse=True)==(nums)
